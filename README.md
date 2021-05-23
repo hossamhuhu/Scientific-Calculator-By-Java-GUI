@@ -1,4 +1,4 @@
-# Scientific-Calculator
+# Scientific-Calculator By Java OOP GUI
 Scientific Calculator By Java OOP GUI
 
 

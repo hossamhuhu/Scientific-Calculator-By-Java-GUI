@@ -1,5 +1,5 @@
 # Scientific-Calculator
-Scientific Calculator
+Scientific Calculator By Java OOP GUI
 
 
 
